@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="@dimen/small_dimen_margin"
+    tools:context=".activities.AddTripActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/location_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="Location:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/location_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/country_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Country:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/country_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/budget_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Budget:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/budget_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/month_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Month:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/month_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/accomodation_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Accomodation:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/accomodation_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/transport_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Transport:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/transport_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <TextView
+            android:id="@+id/details_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Details:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dim20sp" />
+
+        <EditText
+            android:id="@+id/details_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dim20sp" />
+
+        <Button
+            android:id="@+id/add_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:background="@color/colorAccent"
+            android:text="Add Trip"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dim20sp" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57073618985",
+    "firebase_url": "https://travelblogs-81de1.firebaseio.com",
+    "project_id": "travelblogs-81de1",
+    "storage_bucket": "travelblogs-81de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57073618985:android:9f336b9acb1964a9308c38",
+        "android_client_info": {
+          "package_name": "com.example.travelblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57073618985-oebtigki1bhj88ksbqrtk5q5df12qbtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelblogs",
+            "certificate_hash": "46f24c00bd6c89bc5374a6b82046ce7c9b32a7bc"
+          }
+        },
+        {
+          "client_id": "57073618985-o17e8dj4qak7rsefvvtjjd0oe53hmmrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIO4ZbAnkhjs-DmXqD4CECmjrqGGVwZ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57073618985-o17e8dj4qak7rsefvvtjjd0oe53hmmrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
