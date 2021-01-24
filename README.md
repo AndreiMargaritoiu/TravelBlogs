@@ -4,16 +4,16 @@ Android application that allows users to create an account, post (and edit) trav
 <br/>
 Firebase was used to store the users and the posts.
 
-![Screenshot](screenshots/login.png)
+![Screenshot](screenshots/login.jpg)
 
-![Screenshot](screenshots/home.png)
+![Screenshot](screenshots/home.jpg)
 
-![Screenshot](screenshots/profile.png)
+![Screenshot](screenshots/profile.jpg)
 
-![Screenshot](screenshots/menu.png)
+![Screenshot](screenshots/menu.jpg)
 
-![Screenshot](screenshots/trips_list.png)
+![Screenshot](screenshots/trips_list.jpg)
 
-![Screenshot](screenshots/add_trip.png)
+![Screenshot](screenshots/add_trip.jpg)
 
-![Screenshot](screenshots/trip_page.png)
+![Screenshot](screenshots/trip_page.jpg)
